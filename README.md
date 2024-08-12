@@ -6,7 +6,7 @@ Student
 
 Seeking an internship position as a Front-end, Back-end, or Full-stack developer.
 
-* ✉️  You can contact me at [Boatseed159@gmail.com](mailto:Boatseed159@gmail.com)
+* ✉️  You can contact me at [Boatseed159@gmail.com](mailto:taemphong.s@gmail.com)
 
 ### Skills
 
