@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taemphong Sophonsuwaphap
 ================================================================================================================================================
 
-Seeking an internship position as a Front-end, Back-end, or Full-stack developer.
+Seeking a job position as a Front-end, Back-end, or Full-stack developer.
 
 * ✉️  You can contact me at [taemphong.s@gmail.com](mailto:taemphong.s@gmail.com)
 
